@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: ca.uqam.inf2015.aut2011.tp1.kant.Main.class
+Class-Path: ca.uqam.inf2015.aut2011.tp1.kant/build/libs/ca.uqam.inf201
+ 5.aut2011.tp1.kant.jar
+
