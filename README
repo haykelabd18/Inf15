@@ -1,0 +1,14 @@
+//projet fait au cadre du cours inf2015
+//Ceci est le readme qui va contenir les commentaires de la team Kant 
+//Suivez les instructions pour pouvoir lancer ce projet
+
+//To gab et ben
+ce depot contient l'avant derniere version fait jusq'a date 
+on remarque une nouvelle classe ajoutee au projet
+
+Ps:il ya un probleme de configuration de classpath apres avoir compiler avec gradle
+   vous allez notez une difference dans les chemins des dossiers entree et sortie 
+   changer les par votre chemin.
+
+Ps:le .jar ne fonctionne pas grace au classpath mentionnee plus haut
+   c'est pour cela que j'ai pas inclus le traitement des args dans cette version
